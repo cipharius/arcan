@@ -295,6 +295,7 @@ const arcan_net_sources = [_][]const u8{
     "src/a12/net/net.c",
     "src/a12/net/dir_cl.c",
     "src/a12/net/dir_srv.c",
+    "src/a12/net/dir_srv_worker.c",
     "src/a12/net/dir_supp.c",
     "src/frameserver/util/anet_helper.c",
     "src/frameserver/util/anet_keystore_naive.c",
